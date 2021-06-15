@@ -7,9 +7,7 @@ Foobar is a Python library for dealing with word pluralization.
 ## Installation
 
 Copy and paste this code in your Gitignore file.
-follow this link to Find how to create a GitIgnore file 
-
-[pip](https://guides.codepath.com/ios/Using-Git-with-Terminal)
+follow this link to Find how to create a GitIgnore file [LINK](https://guides.codepath.com/ios/Using-Git-with-Terminal)
 
 ```bash
 
