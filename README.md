@@ -2,7 +2,7 @@
 Gitignore file to be used in your Swift projects
 # Swift-GitIgnore
 
-Foobar is a Python library for dealing with word pluralization.
+Download the readme File as it is and follwo the link below.
 
 ## Installation
 
